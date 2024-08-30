@@ -14,6 +14,7 @@ class SimpleChatbot:
             'qual time você torce?': ['real madrid ',' barcelona',' milan ', 'jeddah'],
             'qual é o seu nome?': ['Eu sou um chatbot sem nome.', 'Você pode me chamar de Chatbot.'],
             'tchau': ['Tchau!', 'Até logo!', 'Adeus!'],
+            'explique o que é git pull': ['comando para puxar do repositorio remoto para o local.'],
             'passa a resposta da lição': ['qual é a lição?'],
             'lição de ia': ['qual semana e aula?'],
             's15- aula- 3': ['a resposta é criar perguntas para o chat bot interagir com você']
